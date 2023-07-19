@@ -1,8 +1,8 @@
 # Tic-Tac-Toe Game (React Tutorial)
 
-<img src="/Users/ziv_l/Desktop/file/projects/tic-tac-toe/imgs/3.png" style="zoom: 33%;" />
+<img src="./imgs/3.png" style="zoom: 33%;" />
 
-<img src="/Users/ziv_l/Desktop/file/projects/tic-tac-toe/imgs/4.png" alt="4" style="zoom: 33%;" />
+<img src="./imgs/4.png" alt="4" style="zoom: 33%;" />
 
 ## Introduce
 
@@ -54,9 +54,9 @@ $ npm run dev
 
 The changes make the final work more interesting, which looks.
 
-<img src="/Users/ziv_l/Desktop/file/projects/tic-tac-toe/imgs/1.png" alt="1" style="zoom: 50%;" />
+<img src="./imgs/1.png" alt="1" style="zoom: 50%;" />
 
-<img src="/Users/ziv_l/Desktop/file/projects/tic-tac-toe/imgs/2.png" alt="2" style="zoom:33%;" />
+<img src="./imgs/2.png" alt="2" style="zoom:33%;" />
 
 ---
 
