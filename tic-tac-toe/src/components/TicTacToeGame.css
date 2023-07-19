@@ -1,0 +1,51 @@
+.board-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.square{
+    font-size: 80px;
+    color: rebeccapurple;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border: 1px solid gainsboro;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.status {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.game {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+}
+.step-btn {
+    margin: 5px;
+    padding: 2px 5px;
+    font-size: 10px;
+    background-color: rgb(79, 186, 222);
+    color: white;
+    border: 1px solid rgb(79, 186, 222);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.light {
+    background-color: rgb(149, 229, 255);
+}
+.final-status {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+hr {
+    margin: 32px 0; 
+}
